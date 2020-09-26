@@ -23,8 +23,12 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+There are three sketches in this project.
+* The first one is to show PM2.5 pollution value in each year in each country. The user can choose a specific year to compare all the countries' PM2.5 value. This visualization would answer if the PM2.5 air pollution value reduces these year.
+* The second one is to show PM2.5 value on the map with different luminance to show the value. It can change by year and shows the trend and distribution of the PM2.5 value more clearly and intuitively. This visualization would clearly show the distribution of PM2.5 each year and tell the user the changes.
+* The third one is to show each year's value in a specific country. The user can choose a specific country to see the line chart of this country and judge if the country have made effective efforts to reduce PM2.5 value.
+![Page1](https://user-images.githubusercontent.com/49369552/94345692-caa36e00-fff5-11ea-8726-27dab6693e54.jpg)
+![Page2](https://user-images.githubusercontent.com/49369552/94345922-3d611900-fff7-11ea-9b41-9b4cd3e37c98.jpg)
 
 ## Open Questions
 
