@@ -8,7 +8,7 @@ The data I propose to visualize for my project is from the [Kaggle:PM2.5 Global 
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](![Page1](https://user-images.githubusercontent.com/49369552/94345692-caa36e00-fff5-11ea-8726-27dab6693e54.jpg)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
