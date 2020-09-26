@@ -6,10 +6,10 @@ The data I propose to visualize for my project is from the [Kaggle:PM2.5 Global 
 
 ## Prototypes
 
+I've created two concept visualization of this data. After processing and melting the data, two visualization of this data is realized to show the line chart of PM2.5 trend in each country.
+In the first visualization, the countries are distinguished by color and all the countries are shown in one chart. We can clearly see which country have which value in each year and compare them.
+[![Viz1](https://user-images.githubusercontent.com/49369552/94346090-5c13df80-fff8-11ea-9190-8db518ded736.png)](https://vizhub.com/rioto9858/b2a7232644da4eb18c2fb6ed690ef5b9)
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-
-[![image](![Page1](https://user-images.githubusercontent.com/49369552/94345692-caa36e00-fff5-11ea-8726-27dab6693e54.jpg)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
 ## Questions & Tasks
