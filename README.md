@@ -16,10 +16,10 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Is the PM2.5 air pollution value reduced these years?
+ * What is the distribution of the PM2.5 air pollution in the world? 
+ * Does the PM2.5 distribution change from 2010 to 2017?
+ * Which country has the most effective way to control the pollution?
 
 ## Sketches
 
@@ -28,4 +28,6 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+* I am not sure how to get the geographic shapes to build up a map from this data.
+* I am not sure whether I can implement a map only based on the country name without the latitude and longitude.
+* I do not clearly know how to implement interaction elements on html.
