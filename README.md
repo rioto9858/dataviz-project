@@ -8,9 +8,12 @@ The data I propose to visualize for my project is from the [Kaggle:PM2.5 Global 
 
 I've created two concept visualization of this data. After processing and melting the data, two visualization of this data is realized to show the line chart of PM2.5 trend in each country.
 In the first visualization, the countries are distinguished by color and all the countries are shown in one chart. We can clearly see which country have which value in each year and compare them.
+
 [![Viz1](https://user-images.githubusercontent.com/49369552/94346090-5c13df80-fff8-11ea-9190-8db518ded736.png)](https://vizhub.com/rioto9858/b2a7232644da4eb18c2fb6ed690ef5b9)
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+
+In the second visualization, I choose a specifc country to show the PM2.5 air pollution value alone.(eg. China) I am working to figure out how to let user choose the country by themselves.
+
+[![Vizspecificcountry](https://user-images.githubusercontent.com/49369552/94346277-7e5a2d00-fff9-11ea-9af3-62bef204e1b3.png)](https://vizhub.com/rioto9858/2d180c90d21148f9a241ffa110670845)
 
 ## Questions & Tasks
 
