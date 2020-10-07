@@ -50,12 +50,12 @@ The final delivery of project would be divided into two parts:(1) World Map (2) 
 
 ## Schedule of Deliverables
       
-* Task 1 - Learn how to draw a world map: Try to draw a world map using d3 and React.  (estimate deliverdate: 2020-10-14)
-* Task 2 - Load the data into the World map: Load the data into the world map to draw the distribution.  (estimate deliverdate: 2020-10-18)
-* Task 3 - Make the world map change by year: Make a menu to select a year which would cause the map to show data from that year.  (estimate deliverdate: 2020-10-21)
-* Task 4 - Finish the Line Chart: Complete the line chart to let the user drag the cursor and select year.  (estimate deliverdate: 2020-10-25)
-* Task 5 - Connect the world map and the line chart : Try to connect the world map and the line chart.  (estimate deliverdate: 2020-10-28)
-* Task 6 - Hightlignt the country: Realize the function of highlighting the country in the world map and line chart in the same time. (estimate deliverdate: 2020-11-2)
-* Task 7 - Drag to control the map: Realize the function of dragging the cursor in the line chart to show the data from that year in the world map.  (estimate deliverdate: 2020-11-7)
-* Task 8 - Complete the project: Complete the project and check the function (debugging and checking).  (estimate deliverdate: 2020-11-11)
+(estimate deliverdate: 2020-10-14)  * Task 1 - Learn how to draw a world map: Try to draw a world map using d3 and React.  
+(estimate deliverdate: 2020-10-18)  * Task 2 - Load the data into the World map: Load the data into the world map to draw the distribution.  
+(estimate deliverdate: 2020-10-21)  * Task 3 - Make the world map change by year: Make a menu to select a year which would cause the map to show data from that year.  
+(estimate deliverdate: 2020-10-25)  * Task 4 - Finish the Line Chart: Complete the line chart to let the user drag the cursor and select year.  
+(estimate deliverdate: 2020-10-28)  * Task 5 - Connect the world map and the line chart : Try to connect the world map and the line chart.  
+(estimate deliverdate: 2020-11-2)   * Task 6 - Hightlignt the country: Realize the function of highlighting the country in the world map and line chart in the same time. 
+(estimate deliverdate: 2020-11-7)   * Task 7 - Drag to control the map: Realize the function of dragging the cursor in the line chart to show the data from that year in the world map.  
+(estimate deliverdate: 2020-11-11)  * Task 8 - Complete the project: Complete the project and check the function (debugging and checking).  
 
