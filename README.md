@@ -40,3 +40,22 @@ There are three sketches in this project.
 
 * I am not sure how to get the geographic shapes to build up a map from this data.
 * I am not sure whether I can implement a map only based on the country name without the latitude and longitude.
+
+## Ideas for Interaction
+
+The final delivery of project would be divided into two parts:(1) World Map (2) Line Chart
+* In the world map, the user can zoom in and out to see the distribution of PM2.5 air polltion.
+* The user can also click on the country to highlight the edge of the country and the Line Chart would show the trend of the same country at the same time.
+* In the line chart, the user can drag the cursor to select a year in the line chart which would cause the map to show data from that year.
+
+## Schedule of Deliverables
+      
+* Task 1 - Learn how to draw a world map: Try to draw a world map using d3 and React.  (estimate deliverdate: 2020-10-14)
+* Task 2 - Load the data into the World map: Load the data into the world map to draw the distribution.  (estimate deliverdate: 2020-10-18)
+* Task 3 - Make the world map change by year: Make a menu to select a year which would cause the map to show data from that year.  (estimate deliverdate: 2020-10-21)
+* Task 4 - Finish the Line Chart: Complete the line chart to let the user drag the cursor and select year.  (estimate deliverdate: 2020-10-25)
+* Task 5 - Connect the world map and the line chart : Try to connect the world map and the line chart.  (estimate deliverdate: 2020-10-28)
+* Task 6 - Hightlignt the country: Realize the function of highlighting the country in the world map and line chart in the same time. (estimate deliverdate: 2020-11-2)
+* Task 7 - Drag to control the map: Realize the function of dragging the cursor in the line chart to show the data from that year in the world map.  (estimate deliverdate: 2020-11-7)
+* Task 8 - Complete the project: Complete the project and check the function (debugging and checking).  (estimate deliverdate: 2020-11-11)
+
