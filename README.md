@@ -17,7 +17,7 @@ In the second visualization, I choose a specifc country to show the PM2.5 air po
 
 In the third visualization, I created a menu to let the user choose the country they want to check.
 
-[![VizMenu](https://user-images.githubusercontent.com/49369552/95296371-ae4dcf80-0846-11eb-91f7-dabfee2f21f2.png)]https://vizhub.com/rioto9858/ecaaddfb735345189bd28722a3167731
+[![VizMenu](https://user-images.githubusercontent.com/49369552/95296371-ae4dcf80-0846-11eb-91f7-dabfee2f21f2.png)](https://vizhub.com/rioto9858/ecaaddfb735345189bd28722a3167731)
 
 ## Questions & Tasks
 
