@@ -21,8 +21,7 @@ In the third visualization, I created a menu to let the user choose the country 
 
 In the fourth visualization, I created a Choropleth Map of the world to show the PM2.5 value in a specific year and the distribution around the world.
 
-[![VizGlobal](https://user-images.githubusercontent.com/49369552/95713455-94d8c900-0c34-11eb-9010-f0df4fce0599.png)]
-(https://vizhub.com/rioto9858/8b93000aebda4b828985a428d19edade)
+[![VizGlobal](https://user-images.githubusercontent.com/49369552/95713455-94d8c900-0c34-11eb-9010-f0df4fce0599.png)](https://vizhub.com/rioto9858/8b93000aebda4b828985a428d19edade)
 
 ## Questions & Tasks
 
@@ -55,6 +54,7 @@ The final delivery of project would be divided into two parts:(1) World Map (2) 
 ## Schedule of Deliverables
       
 **[DONE]**~~* Task 1 - Learn how to draw a world map: Try to draw a world map using d3 and React.  (estimate deliver date: 2020-10-14)~~
+
 **[DONE]**~~* Task 2 - Load the data into the World map: Load the data into the world map to draw the distribution.  (estimate deliver date: 2020-10-18)~~  
 * Task 3 - Make the world map change by year: Make a menu to select a year which would cause the map to show data from that year.  (estimate deliver date: 2020-10-21)  
 * Task 4 - Finish the Line Chart: Complete the line chart to let the user drag the cursor and select year.  (estimate deliver date: 2020-10-25)  
