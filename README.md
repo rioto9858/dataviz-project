@@ -6,7 +6,7 @@ The data I propose to visualize for my project is from the [Kaggle:PM2.5 Global 
 
 ## Prototypes
 
-I've created four concept visualization of this data. After processing and melting the data, two visualization of this data is realized to show the line chart of PM2.5 trend in each country.
+I've created five concept visualization of this data. After processing and melting the data, two visualization of this data is realized to show the line chart of PM2.5 trend in each country.
 In the first visualization, the countries are distinguished by color and all the countries are shown in one chart. We can clearly see which country have which value in each year and compare them.
 
 [![Viz1](https://user-images.githubusercontent.com/49369552/94346090-5c13df80-fff8-11ea-9190-8db518ded736.png)](https://vizhub.com/rioto9858/b2a7232644da4eb18c2fb6ed690ef5b9)
@@ -22,6 +22,11 @@ In the third visualization, I created a menu to let the user choose the country 
 In the fourth visualization, I created a Choropleth Map of the world to show the PM2.5 value in a specific year and the distribution around the world.
 
 [![VizGlobal](https://user-images.githubusercontent.com/49369552/95713455-94d8c900-0c34-11eb-9010-f0df4fce0599.png)](https://vizhub.com/rioto9858/8b93000aebda4b828985a428d19edade)
+
+In the fifth visualization, the Choropleth Map is combined with the line chart in Multiple views. And the user can highlight a specific country to see the PM2.5 value of that country.
+
+[![combine](https://user-images.githubusercontent.com/49369552/97065319-967e8700-157a-11eb-8e97-760957284542.png)](https://vizhub.com/rioto9858/a7f67ce64d59425dbe8c69dae9c2e5d9)
+
 
 ## Questions & Tasks
 
@@ -42,24 +47,25 @@ There are three sketches in this project.
 
 ## Open Questions
 
-* I am not sure which menus to choose.
+* None till now.
 
 ## Ideas for Interaction
 
-The final delivery of project would be divided into two parts:(1) World Map (2) Line Chart
+The final delivery of project would be divided into two parts:(1) World Map (2) Line Chart (3) A small line chart with only the country selected
 * In the world map, the user can zoom in and out to see the distribution of PM2.5 air polltion.
-* The user can also click on the country to highlight the edge of the country and the Line Chart would show the trend of the same country at the same time.
-* In the line chart, the user can drag the cursor to select a year in the line chart which would cause the map to show data from that year.
+* The user can also click on the country to highlight the country and the Line Charts would show the trend of the same country at the same time.
+* In the line chart, the user can drag the slider to select a year in the line chart which would cause the map to show data from that year.
 
 ## Schedule of Deliverables
       
 **[DONE]**~~* Task 1 - Learn how to draw a world map: Try to draw a world map using d3 and React.  (estimate deliver date: 2020-10-14)~~
 
 **[DONE]**~~* Task 2 - Load the data into the World map: Load the data into the world map to draw the distribution.  (estimate deliver date: 2020-10-18)~~  
-* Task 3 - Make the world map change by year: Make a menu to select a year which would cause the map to show data from that year.  (estimate deliver date: 2020-10-21)  
-* Task 4 - Finish the Line Chart: Complete the line chart to let the user drag the cursor and select year.  (estimate deliver date: 2020-10-25)  
-* Task 5 - Connect the world map and the line chart : Try to connect the world map and the line chart.  (estimate deliver date: 2020-10-28)  
-* Task 6 - Hightlignt the country: Realize the function of highlighting the country in the world map and line chart in the same time. (estimate deliver date: 2020-11-2)   
-* Task 7 - Drag to control the map: Realize the function of dragging the cursor in the line chart to show the data from that year in the world map.  (estimate deliver date: 2020-11-7)   
-* Task 8 - Complete the project: Complete the project and check the function (debugging and checking).  (estimate deliver date: 2020-11-11)  
+**[DONE]**~~* Task 3 - Make the world map change by year: Make a menu to select a year which would cause the map to show data from that year.  (estimate deliver date: 2020-10-21)~~
+**[DONE]**~~* Task 4 - Finish the Line Chart: Complete the line chart to let the user drag the cursor and select year.  (estimate deliver date: 2020-10-25)~~  
+**[DONE]**~~* Task 5 - Connect the world map and the line chart : Try to connect the world map and the line chart.  (estimate deliver date: 2020-10-28)~~  
+**[DONE]**~~* Task 6 - Hightlignt the country: Realize the function of highlighting the country in the world map and line chart in the same time. (estimate deliver date: 2020-11-2)~~   
+~~* Task 7 - Drag to control the map: Realize the function of dragging the cursor in the line chart to show the data from that year in the world map.  (estimate deliver date: 2020-11-7)~~
+* Task 8 - Complete a small line chart to show the specific country view.(estimate deliver date: 2020-11-7)  
+* Task 9 - Complete the project: Complete the project and check the function (debugging and checking).  (estimate deliver date: 2020-11-11)  
 
