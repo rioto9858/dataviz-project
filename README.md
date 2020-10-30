@@ -2,7 +2,41 @@
 
 ## Data
 
-The data I propose to visualize for my project is from the [Kaggle:PM2.5 Global Air Pollution 2010-2017 (Mean Annual Exposure for 240 Countries)](https://www.kaggle.com/kweinmeister/pm25-global-air-pollution-20102017) via  [Gist: PM2.5 Global Air Pollution Dataset (From 2010-2017)](https://gist.github.com/rioto9858/169d0de7a0e01e996ece1be53b1b79b9)
+The data for this project is from the [Kaggle:PM2.5 Global Air Pollution 2010-2017 (Mean Annual Exposure for 240 Countries)](https://www.kaggle.com/kweinmeister/pm25-global-air-pollution-20102017) via  [Gist: PM2.5 Global Air Pollution Dataset (From 2010-2017)](https://gist.github.com/rioto9858/169d0de7a0e01e996ece1be53b1b79b9)
+
+## Project Description
+
+Based on the dataset above a visualization is developed to show the PM2.5 value worldwide from 2010-2017 intuitively.
+
+Project Overview:
+[![FinalProject](https://user-images.githubusercontent.com/49369552/97757338-e73e3480-1ad2-11eb-8ab8-97d8941c09b7.png)](https://vizhub.com/rioto9858/bbc505c2d4cb467592bf28d9c9a1e668)
+
+[Run this visualization](https://vizhub.com/rioto9858/bbc505c2d4cb467592bf28d9c9a1e668)
+
+## Ideas for Interaction
+
+The final delivery of project would be divided into two parts:(1) World Map (2) Line Chart (3) A small line chart with only the country selected
+* In the world map, the user can zoom in and out to see the distribution of PM2.5 air polltion.
+* The user can also click on the country to highlight the country and the Line Charts would show the trend of the same country at the same time.
+* In the line chart, the user can drag the slider to select a year in the line chart which would cause the map to show data from that year.
+
+
+## Questions & Tasks
+
+The following tasks and questions drive the visualization and interaction decisions for this project:
+
+ * Is the PM2.5 air pollution value reduced these years?
+ * What is the distribution of the PM2.5 air pollution in the world? 
+ * Does the PM2.5 distribution change from 2010 to 2017?
+
+## Sketches
+
+There are three sketches in this project.
+* The first one is to show PM2.5 pollution value in each year in each country. The user can choose a specific year to compare all the countries' PM2.5 value. This visualization would answer if the PM2.5 air pollution value reduces these year.
+* The second one is to show PM2.5 value on the map with different luminance to show the value. It can change by year and shows the trend and distribution of the PM2.5 value more clearly and intuitively. This visualization would clearly show the distribution of PM2.5 each year and tell the user the changes.
+* The third one is to show each year's value in a specific country. The user can choose a specific country to see the line chart of this country and judge if the country have made effective efforts to reduce PM2.5 value.
+![Page1](https://user-images.githubusercontent.com/49369552/94345692-caa36e00-fff5-11ea-8726-27dab6693e54.jpg)
+![Page2](https://user-images.githubusercontent.com/49369552/94345964-6e414e00-fff7-11ea-8fc9-2d728157a3b5.jpg)
 
 ## Prototypes
 
@@ -27,35 +61,6 @@ In the fifth visualization, the Choropleth Map is combined with the line chart i
 
 [![combine](https://user-images.githubusercontent.com/49369552/97065319-967e8700-157a-11eb-8e97-760957284542.png)](https://vizhub.com/rioto9858/a7f67ce64d59425dbe8c69dae9c2e5d9)
 
-
-## Questions & Tasks
-
-The following tasks and questions will drive the visualization and interaction decisions for this project:
-
- * Is the PM2.5 air pollution value reduced these years?
- * What is the distribution of the PM2.5 air pollution in the world? 
- * Does the PM2.5 distribution change from 2010 to 2017?
-
-## Sketches
-
-There are three sketches in this project.
-* The first one is to show PM2.5 pollution value in each year in each country. The user can choose a specific year to compare all the countries' PM2.5 value. This visualization would answer if the PM2.5 air pollution value reduces these year.
-* The second one is to show PM2.5 value on the map with different luminance to show the value. It can change by year and shows the trend and distribution of the PM2.5 value more clearly and intuitively. This visualization would clearly show the distribution of PM2.5 each year and tell the user the changes.
-* The third one is to show each year's value in a specific country. The user can choose a specific country to see the line chart of this country and judge if the country have made effective efforts to reduce PM2.5 value.
-![Page1](https://user-images.githubusercontent.com/49369552/94345692-caa36e00-fff5-11ea-8726-27dab6693e54.jpg)
-![Page2](https://user-images.githubusercontent.com/49369552/94345964-6e414e00-fff7-11ea-8fc9-2d728157a3b5.jpg)
-
-## Open Questions
-
-* None till now.
-
-## Ideas for Interaction
-
-The final delivery of project would be divided into two parts:(1) World Map (2) Line Chart (3) A small line chart with only the country selected
-* In the world map, the user can zoom in and out to see the distribution of PM2.5 air polltion.
-* The user can also click on the country to highlight the country and the Line Charts would show the trend of the same country at the same time.
-* In the line chart, the user can drag the slider to select a year in the line chart which would cause the map to show data from that year.
-
 ## Schedule of Deliverables
       
 **[DONE]**~~* Task 1 - Learn how to draw a world map: Try to draw a world map using d3 and React.  (estimate deliver date: 2020-10-14)~~
@@ -66,6 +71,8 @@ The final delivery of project would be divided into two parts:(1) World Map (2) 
 **[DONE]**~~* Task 5 - Connect the world map and the line chart : Try to connect the world map and the line chart.  (estimate deliver date: 2020-10-28)~~  
 **[DONE]**~~* Task 6 - Hightlignt the country: Realize the function of highlighting the country in the world map and line chart in the same time. (estimate deliver date: 2020-11-2)~~   
 **[DONE]**~~* Task 7 - Drag to control the map: Realize the function of dragging the cursor in the line chart to show the data from that year in the world map.  (estimate deliver date: 2020-11-7)~~
-* Task 8 - Complete a small line chart to show the specific country view.(estimate deliver date: 2020-11-7)  
-* Task 9 - Complete the project: Complete the project and check the function (debugging and checking).  (estimate deliver date: 2020-11-11)  
+**[DONE]**~~* Task 8 - Complete a small line chart to show the specific country view.(estimate deliver date: 2020-11-7)~~  
+**[DONE]**~~* Task 9 - Complete the project: Complete the project and check the function (debugging and checking).  (estimate deliver date: 2020-11-11)~~  
 
+## Future Work 
+* Function: Zooming in the Map filters the data on the Line Chart
