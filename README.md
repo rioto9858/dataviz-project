@@ -40,26 +40,33 @@ There are three sketches in this project.
 
 ## Prototypes
 
-Six visualizations of this data are created in the develop process. After processing and melting the data, two visualization of this data is realized to show the line chart of PM2.5 trend in each country.
+Six visualizations of this data are created in the develop process. 
+
+After processing and melting the data, three visualization of this data is realized to show the line chart of PM2.5 trend. One of them is to realize a Choropleth Map to show the PM2.5 value worldwide. The other two is to combine all the things together and realize the interactions.
+
 In the first visualization, the countries are distinguished by color and all the countries are shown in one chart. We can clearly see which country have which value in each year and compare them.
 
 [![Viz1](https://user-images.githubusercontent.com/49369552/94346090-5c13df80-fff8-11ea-9190-8db518ded736.png)](https://vizhub.com/rioto9858/b2a7232644da4eb18c2fb6ed690ef5b9)
 
-In the second visualization, I choose a specifc country to show the PM2.5 air pollution value alone.
+In the second visualization, a specifc country is chosen to show the PM2.5 air pollution value alone.
 
 [![Vizspecificcountry](https://user-images.githubusercontent.com/49369552/94346277-7e5a2d00-fff9-11ea-9af3-62bef204e1b3.png)](https://vizhub.com/rioto9858/2d180c90d21148f9a241ffa110670845)
 
-In the third visualization, I created a menu to let the user choose the country they want to check.
+In the third visualization, a menu is created to let the user choose the country they want to check.
 
 [![VizMenu](https://user-images.githubusercontent.com/49369552/95296371-ae4dcf80-0846-11eb-91f7-dabfee2f21f2.png)](https://vizhub.com/rioto9858/ecaaddfb735345189bd28722a3167731)
 
-In the fourth visualization, I created a Choropleth Map of the world to show the PM2.5 value in a specific year and the distribution around the world.
+In the fourth visualization, a Choropleth Map of the world is created to show the PM2.5 value in a specific year and the distribution around the world.
 
 [![VizGlobal](https://user-images.githubusercontent.com/49369552/95713455-94d8c900-0c34-11eb-9010-f0df4fce0599.png)](https://vizhub.com/rioto9858/8b93000aebda4b828985a428d19edade)
 
 In the fifth visualization, the Choropleth Map is combined with the line chart in Multiple views. And the user can highlight a specific country to see the PM2.5 value of that country.
 
 [![combine](https://user-images.githubusercontent.com/49369552/97065319-967e8700-157a-11eb-8e97-760957284542.png)](https://vizhub.com/rioto9858/a7f67ce64d59425dbe8c69dae9c2e5d9)
+
+In the final visualization, all the parts are combined together and all the interaction is realized to let the user know the PM2.5 trend from 2010-2017 worldwide.
+
+[![FinalProject](https://user-images.githubusercontent.com/49369552/97757338-e73e3480-1ad2-11eb-8ab8-97d8941c09b7.png)](https://vizhub.com/rioto9858/bbc505c2d4cb467592bf28d9c9a1e668)
 
 ## Schedule of Deliverables
       
