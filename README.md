@@ -92,6 +92,7 @@ In the final visualization, all the parts are combined together and all the inte
 **[DONE]**~~* Task 5 - Connect the world map and the line chart : Try to connect the world map and the line chart.  (estimate deliver date: 2020-10-28)~~  
 **[DONE]**~~* Task 6 - Hightlignt the country: Realize the function of highlighting the country in the world map and line chart in the same time. (estimate deliver date: 2020-11-2)~~   
 **[DONE]**~~* Task 7 - Drag to control the map: Realize the function of dragging the cursor in the line chart to show the data from that year in the world map.  (estimate deliver date: 2020-11-7)~~
+
 **[DONE]**~~* Task 8 - Complete a small line chart to show the specific country view.(estimate deliver date: 2020-11-7)~~  
 **[DONE]**~~* Task 9 - Complete the project: Complete the project and check the function (debugging and checking).  (estimate deliver date: 2020-11-11)~~  
 
