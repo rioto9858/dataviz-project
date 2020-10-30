@@ -40,7 +40,7 @@ There are three sketches in this project.
 
 ## Prototypes
 
-I've created five concept visualization of this data. After processing and melting the data, two visualization of this data is realized to show the line chart of PM2.5 trend in each country.
+Six visualizations of this data are created in the develop process. After processing and melting the data, two visualization of this data is realized to show the line chart of PM2.5 trend in each country.
 In the first visualization, the countries are distinguished by color and all the countries are shown in one chart. We can clearly see which country have which value in each year and compare them.
 
 [![Viz1](https://user-images.githubusercontent.com/49369552/94346090-5c13df80-fff8-11ea-9190-8db518ded736.png)](https://vizhub.com/rioto9858/b2a7232644da4eb18c2fb6ed690ef5b9)
