@@ -2,7 +2,9 @@
 
 ## Data
 
-The data for this project is from the [Kaggle:PM2.5 Global Air Pollution 2010-2017 (Mean Annual Exposure for 240 Countries)](https://www.kaggle.com/kweinmeister/pm25-global-air-pollution-20102017) via  [Gist: PM2.5 Global Air Pollution Dataset (From 2010-2017)](https://gist.github.com/rioto9858/169d0de7a0e01e996ece1be53b1b79b9)
+The data for this project is from 
+[Kaggle:PM2.5 Global Air Pollution 2010-2017 (Mean Annual Exposure for 240 Countries)](https://www.kaggle.com/kweinmeister/pm25-global-air-pollution-20102017) 
+via  [Gist: PM2.5 Global Air Pollution Dataset (From 2010-2017)](https://gist.github.com/rioto9858/169d0de7a0e01e996ece1be53b1b79b9)
 
 ## Project Description
 
