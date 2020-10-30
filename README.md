@@ -15,10 +15,24 @@ Project Overview:
 
 ## Ideas for Interaction
 
-The final delivery of project would be divided into two parts:(1) World Map (2) Line Chart (3) A small line chart with only the country selected
-* In the world map, the user can zoom in and out to see the distribution of PM2.5 air polltion.
-* The user can also click on the country to highlight the country and the Line Charts would show the trend of the same country at the same time.
-* In the line chart, the user can drag the slider to select a year in the line chart which would cause the map to show data from that year.
+The visualization would be divided into three parts:(1) World choropleth map (2) Line chart of all countries (3) An option panel to let the user choose year and show the selected country data.
+
+The world choropleth map:
+* Zoom in/Out and drag to show the detail of the world map.
+* Click on a specific country to select the country (the selected country on the map would be come red) and get a selected view.
+* Hover on a specific country will show the PM2.5 value of that country in that year
+
+The line chart of all countries:
+* Show all the data on this chart.
+* The year line (purple) would change with the selected year.
+* If a country is selected on the choropleth map, the related line on the line chart would stand out and becomes red.
+
+The option panel:
+* The slider can select the year of data shown on the choropleth map and the year line on the line chart.
+* The slider would be disabled when the a country is selected.
+* There is a small line chart to show the data of the selected country.
+* The country label will change by the mouse move.
+* If a country is selected, the point of the data shown on the small line chart would become red and the detail of this point would be shown when the mouse is hover on them.
 
 
 ## Questions & Tasks
