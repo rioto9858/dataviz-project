@@ -8,9 +8,10 @@ The data for this project is from  [Kaggle:PM2.5 Global Air Pollution 2010-2017 
 
 Based on the dataset above a visualization is developed to show the PM2.5 value worldwide from 2010-2017 intuitively.
 
-[Introduction video of this project on YouTube](https://www.youtube.com/watch?v=gR1HWzyMlqA)
+:point_right:[Introduction video of this project on YouTube](https://www.youtube.com/watch?v=gR1HWzyMlqA)
 
-[Run this visualization](https://vizhub.com/rioto9858/bbc505c2d4cb467592bf28d9c9a1e668?mode=full)
+:point_right:[Run this visualization](https://vizhub.com/rioto9858/bbc505c2d4cb467592bf28d9c9a1e668?mode=full)
+
 
 [![FinalProject](https://user-images.githubusercontent.com/49369552/97757338-e73e3480-1ad2-11eb-8ab8-97d8941c09b7.png)](https://vizhub.com/rioto9858/bbc505c2d4cb467592bf28d9c9a1e668?mode=full)
 
